@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+Heading.jsx
+Card.jsx
+Sdata.js
+
 # testing
 /coverage
 
